@@ -24,17 +24,17 @@ function getInputData() {
   let dataToPost = new FormData(); //formdata API
 
   //fill name attributes to corresponding values
-  dataToPost.append("entry.1687506506", document.querySelector("#inp1").value);
-  dataToPost.append("entry.258951465", document.querySelector("#inp2").value);
-  dataToPost.append("entry.1994868729", document.querySelector("#inp3").value);
-  dataToPost.append("entry.91347678", document.querySelector("#inp4").value);
-  dataToPost.append("entry.1318692705", document.querySelector("#inp5").value);
-  dataToPost.append("entry.311879824", document.querySelector("#inp6").value);
-  dataToPost.append("entry.841095051", document.querySelector("#inp7").value);
-  dataToPost.append("entry.505855799", document.querySelector("#inp8").value);
-  dataToPost.append("entry.9320772", document.querySelector("#inp9").value);
-  dataToPost.append("entry.293741709", document.querySelector("#inp10").value);
-  dataToPost.append("entry.1114375073", document.querySelector("#inp11").value);
+  dataToPost.append("entry.860156592", document.querySelector("#inp1").value);
+  dataToPost.append("entry.563315148", document.querySelector("#inp2").value);
+  dataToPost.append("entry.1264037439", document.querySelector("#inp3").value);
+  dataToPost.append("entry.621140106", document.querySelector("#inp4").value);
+  dataToPost.append("entry.1031615990", document.querySelector("#inp5").value);
+  dataToPost.append("entry.1786562575", document.querySelector("#inp6").value);
+  dataToPost.append("entry.1225531449", document.querySelector("#inp7").value);
+  dataToPost.append("entry.979198231", document.querySelector("#inp8").value);
+  dataToPost.append("entry.1384577334", document.querySelector("#inp9").value);
+  dataToPost.append("entry.246740851", document.querySelector("#inp10").value);
+  dataToPost.append("entry.1456106296", document.querySelector("#inp11").value);
 
   return dataToPost;
 }
