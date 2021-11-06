@@ -1,4 +1,4 @@
-let url = "https://docs.google.com/forms/d/e/1FAIpQLScJ434ChV2Ol7VoETDFCuKfxHXsJ1gVc392lNAe58tQ6gDOaA/formResponse"; //action url
+let url = "https://docs.google.com/forms/d/e/1FAIpQLSdatT__vLZA-0s0WHojLkNOoTr1DMojJGU0TZTNDo4h_ivYwQ/formResponse"; //action url
 let form = document.querySelector("#form"); //form element
 
 form.addEventListener("submit", (e) => {
